@@ -1,1 +1,2 @@
 debezium-postgresql/debezium-connector-postgres
+debezium-cassandra/debezium-connector-cassandra
